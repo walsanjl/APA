@@ -1,0 +1,63 @@
+
+Sub 10.100000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 1.41327404784
+  algoritmo 4: 0.863360996161
+  algoritmo 5: 2.20459243092
+
+Sub 10.500000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 6.79812949042
+  algoritmo 4: 4.49147023911
+  algoritmo 5: 12.5974601004
+
+Sub 10.1000000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 14.2095626808
+  algoritmo 4: 9.40613424596
+  algoritmo 5: 26.155311459
+
+Sub 50.100000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 1.3324176676
+  algoritmo 4: 0.938444792487
+  algoritmo 5: 2.15550912397
+
+Sub 50.500000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 6.25290342946
+  algoritmo 4: 4.7067871055
+  algoritmo 5: 11.6049811768
+
+Sub 50.1000000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 13.1204109079
+  algoritmo 4: 10.676135815
+  algoritmo 5: 24.7958814421
+
+Sub 90.100000:
+  algoritmo 1: >5min
+  algoritmo 2: 97.5000250006
+  algoritmo 3: 0.643940216845
+  algoritmo 4: 0.82377442438
+  algoritmo 5: 1.27791979021
+
+Sub 90.500000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 3.63113968054
+  algoritmo 4: 5.13748746376
+  algoritmo 5: 7.26138401773
+
+Sub 90.1000000:
+  algoritmo 1: >5min
+  algoritmo 2: >5min
+  algoritmo 3: 7.57351811644
+  algoritmo 4: 11.1247416908
+  algoritmo 5: 15.288844498
