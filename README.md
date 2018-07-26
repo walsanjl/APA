@@ -1,6 +1,6 @@
 # APA
-entrada:
-  2 argumentos:
+entrada: 2 argumentos
+
     Arg 1:
     1 - Ordena com Selection Sort
     2 - Ordena com Insertion Sort
