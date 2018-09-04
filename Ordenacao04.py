@@ -5,6 +5,8 @@ import sys
 import timeit
 
 #------- DEFININDO FUNCOES -------
+
+#heap máximo = insereHeapMax + removeHeapMax
 def insereHeapMax(lista, indiceFinal):
 	i = indiceFinal
 	while (True):
