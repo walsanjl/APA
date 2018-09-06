@@ -90,15 +90,7 @@ def buscaMaior(lista):
 '''
 Exemplo de chamada a ser executada pelo terminal pra ser
 proccessada com o metodo 1 (countingSort) :
->python Ordenacao01.py 1 entrada.txt
-7 #tamanho do arquivo
-9
-7
-8
-1
-2
-0
-4
+>python Ordenacao03.py 1 entrada.txt
 '''
 opcaoOrdenacao = int(sys.argv[1])
 arquivoDeEntrada = sys.argv[2]
